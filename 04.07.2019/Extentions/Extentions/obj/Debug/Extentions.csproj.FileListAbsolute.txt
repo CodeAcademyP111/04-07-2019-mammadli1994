@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\bin\Debug\Extentions.exe.config
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\bin\Debug\Extentions.exe
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\bin\Debug\Extentions.pdb
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\obj\Debug\Extentions.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\obj\Debug\Extentions.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\obj\Debug\Extentions.exe
+C:\Users\Aishe\Desktop\p111\C#\04.07.2019\Extentions\Extentions\obj\Debug\Extentions.pdb
